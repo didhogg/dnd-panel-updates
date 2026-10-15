@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "family": "dnd-floating-panel-v4",
+  "version": "R11.5",
+  "sequence": 110500,
+  "sourceSha256": "61229742b5925314053952c53716ec2dbbc8c93de20c1b079caea9cf95350370",
+  "payloadSha256": "2143f61affba1ce173179b3dc99fbc8ff54bb19382d330de292296f11cc9a56f",
+  "bytes": 5596206,
+  "encoding": "gzip",
+  "loaderMinVersion": 1,
+  "payloadUrl": "https://raw.githubusercontent.com/didhogg/dnd-panel-updates/main/releases/R11.5-2143f61affba1ce1.js.gz"
+}
