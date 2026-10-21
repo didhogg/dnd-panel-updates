@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "family": "dnd-floating-panel-v4",
-  "version": "R11.66.13",
-  "sequence": 116613,
-  "sourceSha256": "8d81aadae1e487a5ac54582efb75d0efdfc376ec7637e5d8e64879e738e9e850",
-  "payloadSha256": "9b45e53fba596c4c12329dacb7f30301cd8807ad75d110d31dd703c53dfa4a0a",
-  "bytes": 5894334,
+  "version": "R11.66.14",
+  "sequence": 116614,
+  "sourceSha256": "4e3e309140337d8deb097167cf4972eda07f0af666957ba79d3e5ae7dd44377f",
+  "payloadSha256": "047d79d29f8cdb5be2db77db5a63a79abd07b529e5250d8f87e60a7c17a75f39",
+  "bytes": 5894513,
   "encoding": "gzip",
   "loaderMinVersion": 1,
-  "payloadUrl": "https://raw.githubusercontent.com/didhogg/dnd-panel-updates/main/releases/R11.66.13-9b45e53fba596c4c.js.gz"
+  "payloadUrl": "https://raw.githubusercontent.com/didhogg/dnd-panel-updates/main/releases/R11.66.14-047d79d29f8cdb5b.js.gz"
 }
